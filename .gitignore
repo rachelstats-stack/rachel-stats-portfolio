@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Old/reference files
+*.bak
+1761088275054.jpg
+Colors Of The 1920s.jpeg
+Peter Talks/
